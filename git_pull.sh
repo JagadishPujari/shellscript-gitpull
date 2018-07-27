@@ -1,7 +1,8 @@
 #!/bin/bash
 
 repos=( 
-  "E:\Practices\sass-workshop"
+  "E:\ProjectName\repo_name1",
+  "E:\ProjectName\repo_name2"
 )
 
 echo ""
